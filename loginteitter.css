@@ -1,0 +1,36 @@
+.imagelogoData{
+    width: 2%;
+    height: 2%;
+    text-align: center;
+
+}
+
+
+
+.loginPage{
+    text-align: center;
+    margin-top: auto;
+}
+#twitLogin{
+    visibility: hidden;
+}
+#userNameStyle{
+    border: solid rgb(6, 165, 228) 2px;
+    border-radius: 10px;
+    padding: 18px 140px 18px 4px;
+}
+#passwordStyle{
+    border: solid rgb(6, 165, 228) 2px;
+    border-radius: 10px;
+    padding: 18px 140px 18px 4px;
+}
+#sumbitButton{
+    border: solid rgb(6, 165, 228) 2px;
+    background-color: rgb(6, 165, 228);
+    padding: 20px 130px 20px 130px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px solid;
+    font-display: bold;
+
+}

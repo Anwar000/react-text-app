@@ -1,0 +1,165 @@
+#htmlbody{
+    background-color: rgb(35, 37, 37);
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    padding: 1px 50px 100px 0px
+    
+}
+.htmlDataBar{
+    float: left;
+    background-color: rgb(176, 176, 177);
+    border-right:solid thistle;
+    
+}
+.htmlSidenav{
+    float:inline-start;
+    font-size: 20px;
+    text-align: left;
+    margin-right: 200px;
+    border-right:solid thistle;
+}
+.article{
+    background-color: rgb(176, 214, 221);
+    margin-bottom: 50px;
+}
+p{
+   
+   padding: 0px 20px 30px 20px;
+}
+#learnHtml{
+    background-color: #236e26;
+    border: solid s;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+}
+#homeButton{
+    border:solid #236e26;
+    border-radius: 10px;
+    background-color: #236e26;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#nextButton{
+    border:solid #236e26;
+    border-radius: 10px;
+    background-color: #236e26;
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 100px;
+
+}
+#htmlLogo{
+    height: 150px;
+    width: 200px;
+    margin:10px 0px 50px 10px;
+    padding-top: 30px;
+    float: left;
+}
+.cssBody{
+    background-color: rgb(176, 196, 209);
+    color: black;
+    padding-bottom: 50px;
+    margin-right: -50px;
+}
+.javaScriptBody{
+    background-color: rgb(245, 245, 217);
+    color: black;
+    padding-top: 1px;
+    margin-right: -50px;
+    padding-bottom: 50px;
+}
+#htmlBodyButtons{
+    padding: 10px 55px 10px 55px;;
+    border:solid #236e26;
+    border-radius: 30px;
+    font-size: 20px; 
+    background-color: #236e26;
+    color: white;
+
+}
+#htmlBodyButtonstwo{
+    padding: 10px 40px 10px 40px;;
+    border:solid white;
+    border-radius: 30px;
+    font-size: 20px; 
+    
+    color: black;
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style-type:none;
+    overflow: hidden;
+    background-color: rgb(92, 94, 95);
+}
+li{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.headder{
+    background-color: #35804c;
+    
+}
+a{
+    text-decoration: none;
+    
+    
+}
+.headerNavigation a{
+    color: white;
+}
+li:hover:not(.headder) {
+    background-color: #236e26;
+}
+.htmlDataBar :hover{
+    background-color: teal;
+}
+#login{
+    
+    border: solid  #236e26;
+    background-color: #236e26;
+    border-radius: 30px;
+    font-size: 15px;
+    color: white;
+    padding: 12px 40px 12px 40px;
+    margin-left: 20px;   
+}
+.coursebutton{
+    border:solid white;
+    border-radius: 30px;
+    font-size: 15px;
+    background-color: white;
+    padding: 14px 15px;
+}
+button:hover{
+    background-color: #236e26;
+    color: white;
+}
+.buttonstyle{
+    float: right;
+    margin-top: -65px;
+    margin-right:18px;
+}
+.head{
+    text-align: center;
+    padding: 10px 10px;
+   color: rgb(243, 239, 239);
+   text-decoration: none;
+   overflow: hidden;
+  
+}
+img{
+    width: 80px;
+    height: 80px;
+}
